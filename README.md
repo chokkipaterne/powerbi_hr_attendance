@@ -3,7 +3,7 @@ This project offers detailed analytics for HR by analyzing employee attendance r
 
 ## Screenshots
 ![Models](/screenshots/models.png)
-Models<br/>
+Models\
 
 
 ![Home](/screenshots/dashboard.png)
